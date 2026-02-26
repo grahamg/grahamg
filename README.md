@@ -1,20 +1,14 @@
 <div align="center">
-
-# Graham
-
 <!-- BEGIN CELLULAR AUTOMATON -->
 
 ![Wolfram Elementary Cellular Automaton — Rule 30](./ca.svg)
 
-*Rule 30 — updates every 8 hours*
+*updates every 8 hours*
 
 <!-- END CELLULAR AUTOMATON -->
-
 </div>
 
 ---
 
-**Senior Software Engineer** · Python/Django · JavaScript/React · Java/Spring · Docker/Kubernetes
-
-🔐 Network security & hardware hacking &nbsp;|&nbsp; ⚡ ESP32/Arduino embedded systems &nbsp;|&nbsp; 🕵️ Bug bounty & privacy tooling &nbsp;|&nbsp; 🖥️ Librebooted ThinkPads
-
+**Senior Software Engineer**
+Unix systems and hardware hacking &nbsp;|&nbsp; embedded systems (arduino, esp32, STM) &nbsp;|&nbsp; privacy tooling &nbsp;|&nbsp; web development
