@@ -1,9 +1,9 @@
 <div align="center">
 <!-- BEGIN CELLULAR AUTOMATON -->
 
-![Wolfram Elementary Cellular Automaton — Rule 129](./ca.svg)
+![Wolfram Elementary Cellular Automaton — Rule 57](./ca.svg)
 
-*Rule 129 — updates every 8 hours*
+*Rule 57 — updates every 8 hours*
 
 <!-- END CELLULAR AUTOMATON -->
 </div>
